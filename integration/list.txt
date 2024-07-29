@@ -1,0 +1,21 @@
+// auth - login/signUp - firebase
+// forgetpassword - firebase
+
+
+// home - image slider - contentful
+// product list - CRUD - local storage
+// logout - local storage
+
+// profile - data storage - firebase 
+
+
+// functionality
+login/signUp
+forgetpassword
+stor user email/encripted password in local storage
+add, update, delete product
+notification popup
+auto slider image 
+search product
+add to cart 
+profile update
