@@ -39,8 +39,9 @@ export const signinFormValidation = (signinFormInput) => {
     );
   } else if (!signinFormInput?.checkBox) {
     return tostify(NOTIFICATION.ERROR, "Please fill check box!");
-  } else if (isEmpty(signinFormInput?.profile)) {
-    return tostify(NOTIFICATION.ERROR, "Please upload profile!");
+  } 
+  else if (isEmpty(signinFormInput?.profile)) {
+    return tostify(NOTIFICATION.ERROR, "Please upload profile!");ß
   }
 };
 
